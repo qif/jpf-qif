@@ -7,7 +7,7 @@ Project pages
 
 http://babelfish.arc.nasa.gov/trac/jpf/wiki/summer-projects/2012-qif  
 
-http://www.google-melange.com/gsoc/project/google/gsoc2012/qsphan/18001
+http://www.google-melange.com/gsoc/project/details/google/gsoc2012/qsphan/5698390809640960
 
 Abstract
 ----
