@@ -1,0 +1,8 @@
+#site=${jpf-qif}../site.properties
+site=${user.home}/.jpf/site.properties
+classpath=${jpf-qif}/build/examples
+target=plas.ImplicitFlow
+symbolic.method=plas.ImplicitFlow.func(sym)
+listener = gov.nasa.jpf.qif.PatternBuilder
+vm.storage.class=nil
+#search.multiple_errors=true
