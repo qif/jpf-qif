@@ -1,6 +1,6 @@
 jpf-qif
 =========
-Quantitative Information Flow for Java Bytecode using Symbolic PathFinder
+Symbolic Quantitative Information Flow Analysis for Java Bytecode
 
 Project pages
 ----
