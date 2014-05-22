@@ -14,6 +14,11 @@ Abstract
 
 Computer systems in the real world are never 100% secure, so we need to measure how secure they are. As a simple example, suppose an attacker tries to guess a password: if his guess is correct, he can obtain all the information; otherwise he can still learn that the password is not the same as the previous try, so his search space is narrowed. In either the cases, the password checking program does leak some information. The aim of this project is to use JPF to quantify leakage of confidential information in Java programs. 
 
+Paper
+----
+[Symbolic Quantitative Information Flow](http://qsphan.github.io/papers/paper1.pdf). **JPF** 2012.  
+Quoc-Sang Phan, Pasquale Malacaria, Oksana Tkachuk, and Corina S. Pasareanu. 
+
 Install
 ----
 
