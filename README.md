@@ -42,7 +42,7 @@ The following instructions is for people who have no idea about Java Pathfinder.
 
 4. Get jpf-qif, build it
 
-        git clone https://github.com/dark2bright/jpf-qif.git
+        git clone https://github.com/qif/jpf-qif.git
         cd jpf-qif
         ant build
 
